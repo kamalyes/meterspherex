@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 对项目有其他问题
+    url: https://metersphere.io
+    about: 如果想要进一步了解项目，欢迎发送邮件到 mryu168@163.com 进行提问。
+  - name: 反馈安全问题 (Report Security Bug)
+    url: mailto://mryu168@163.com
+    about: 请通过邮箱 mryu168@163.com 反馈安全问题 (Please report security vulnerabilities to mryu168@163.com)
